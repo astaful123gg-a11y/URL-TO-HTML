@@ -41,7 +41,7 @@ from telegram.ext import (
 from telegram.error import TelegramError
 
 # ═══════════════════════ CONFIG ═══════════════════════
-BOT_TOKEN = "8928689890:AAHAQYcqITw6A6LzNUq1jvx4R4-eFRYc9ys"
+BOT_TOKEN = "8928689890:AAGsbUN81nMwYAj8H5hjRU58UBGSC83qZFE"
 
 # Telegram user IDs allowed to use the admin panel
 ADMIN_IDS = [8600328303]  # <-- replace with your numeric Telegram user ID(s)
